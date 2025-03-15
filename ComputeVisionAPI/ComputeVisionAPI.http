@@ -1,0 +1,6 @@
+@ComputeVisionAPI_HostAddress = http://localhost:5026
+
+GET {{ComputeVisionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
